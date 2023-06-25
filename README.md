@@ -6,11 +6,17 @@ This project involves a data analysis case study for Bellabeat, a high-tech manu
 The project follows the steps of the data analysis process: ask, prepare, process, analyze, share, and act. The deliverables for this project include:
 
 1- A clear summary of the business task
+
 2- A description of all data sources used
+
 3- Documentation of any cleaning or manipulation of data
+
 4- A summary of the analysis
+
 5- Supporting visualizations and key findings
+
 6- High-level recommendations based on the analysis
+
 
 ## Data Source
 The primary data source for this project is the FitBit Fitness Tracker Data available on Kaggle. This data set contains personal fitness tracker data from thirty Fitbit users, including minute-level output for physical activity, heart rate, and sleep monitoring. It provides information about daily activity, steps, and heart rate that can be used to explore users' habits.
