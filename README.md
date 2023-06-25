@@ -38,8 +38,5 @@ The majority of FitBit app users (81.3%) use the app to track sedentary behavior
 
 These insights can inform the Bellabeat marketing strategy. The marketing team can encourage customers by educating them about the advantages of fitness, recommending different types of activity, and providing information on calorie intake and burn rate on the Bellabeat app.
 
-## Usage
-This project is intended for anyone interested in data analysis, particularly in the context of health-focused smart devices. The insights derived from this project could be useful for marketing professionals, product developers, and business strategists in the health tech industry.
-
 ## License
 This project is licensed under the terms of the MIT license.
